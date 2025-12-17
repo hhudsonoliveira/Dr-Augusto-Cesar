@@ -151,3 +151,4 @@ coverage/
 .sass-cache/
 .grunt
 bower_components/
+.claude/
