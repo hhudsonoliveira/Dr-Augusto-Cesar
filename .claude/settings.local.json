@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(dir /B /S)",
+      "Bash(git init:*)",
+      "Bash(git config:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\n🚀 Site institucional Dr. Augusto Cesar - Direito Bancário\n\n✨ Características principais:\n- Design dark mode futurista com glassmorphism\n- Gradientes neon (azul → roxo → dourado)\n- 100% responsivo (mobile first)\n- Botão WhatsApp flutuante com animação\n- Particles.js no hero section\n- Carrossel de depoimentos\n- FAQ accordion animado\n- Counter animation para stats\n- SEO otimizado com Schema.org\n- Acessibilidade WCAG 2.1\n\n🎨 Seções incluídas:\n- Header sticky com blur\n- Hero full screen com particles\n- Sobre com foto + stats\n- 6 especialidades com cards glassmorphism\n- Diferenciais e processo\n- Depoimentos em carrossel\n- FAQ com 6 perguntas\n- CTA final destacado\n- Footer completo\n\n📱 Tecnologias:\n- HTML5 semântico\n- CSS3 (Grid, Flexbox, Animations)\n- JavaScript vanilla\n- Particles.js (CDN)\n- Google Fonts (Outfit + Space Grotesk)\n\n🔧 Desenvolvido por HO DEVWEB\n\n🤖 Generated with Claude Code\nhttps://claude.com/claude-code\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n)\")"
+    ]
+  }
+}

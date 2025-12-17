@@ -1,0 +1,26 @@
+# robots.txt para augustocesar.adv.br
+
+# Permitir todos os bots
+User-agent: *
+Allow: /
+
+# Bloquear acesso a diretórios específicos (se necessário)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Sitemap
+Sitemap: https://augustocesar.adv.br/sitemap.xml
+
+# Rastreamento de bots específicos
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Frequência de rastreamento (crawl-delay em segundos)
+# Crawl-delay: 10
+
+# Observações:
+# - Após fazer deploy, substitua 'augustocesar.adv.br' pelo seu domínio real
+# - Teste seu robots.txt em: https://www.google.com/webmasters/tools/robots-testing-tool
